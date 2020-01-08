@@ -1,1 +1,1 @@
-# Shop-Page
+The Shop-Page is in progress now.
